@@ -7,4 +7,4 @@ last_name = input("Введите вашу фамилию: ")
 
 # Выводим результат в нужном формате
 # print("Вас зовут:", last_name, first_name)
-print("Вас зовут: " + first_name, last_name)
+print("Вас зовут: " + last_name, first_name)
